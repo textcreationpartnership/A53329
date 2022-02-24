@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assizes held for the county-palatine of Chester the 11th day of April, 1699 by John Oliver.</title>
+            <author>Oliver, John, d. 1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53329</idno>
+            <idno type="STC">Wing O279</idno>
+            <idno type="STC">ESTC R38155</idno>
+            <idno type="EEBO-CITATION">17197814</idno>
+            <idno type="OCLC">ocm 17197814</idno>
+            <idno type="VID">106185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1621:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assizes held for the county-palatine of Chester the 11th day of April, 1699 by John Oliver.</title>
+                  <author>Oliver, John, d. 1730.</author>
+               </titleStmt>
+               <extent>25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and to be sold by Amy Stone ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs X, 9 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106185:1"/>
+            <pb facs="tcp:106185:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the ASSIZES Held for the County-Palatine of CHESTER The <hi>11th.</hi> day of <hi>April, 1699.</hi>
+            </p>
+            <p>By JOHN OLIVER, M. A. and Vicar of <hi>Audlem,</hi> the County of <hi>Cheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for, and to be ſold by <hi>Amy Stone,</hi> Bookſeller <hi>Namptwich.</hi> 1609.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106185:2"/>
+            <pb n="3" facs="tcp:106185:2"/>
+            <head>To the Right Worſhipful THOMAS DELVES of <hi>Eardſhaw,</hi> Eſquire; HIGH-SHERIFF Of the County of CHESTER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Obedience to your Commands, I have made Publick a plain Diſ<g ref="char:EOLhyphen"/>courſe, upon a common Subject, which had the good Fortune to meet with ſome favour able Entertainment from the Pulpit. I wiſh I could have made you a better Preſent, to teſtify the particular Obligations I have to your
+<pb n="4" facs="tcp:106185:3"/>ſelf, and your worthy Family: How<g ref="char:EOLhyphen"/>ever, ſuch as it is, I humbly offer it in acknowledgment of all paſt Favours.</p>
+            <p>That God Almighty would bleſs you with a numerous Offspring, ſuch as may derive your Name, and eſpeci<g ref="char:EOLhyphen"/>ally the Noble Qualities of your Houſe, to many ſucceeding Generations; is the Conſtant Prayer of</p>
+            <closer>
+               <signed>Sir, Your moſt humble, and moſt obliged Servant, JOHN OLIVER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:106185:3"/>
+            <head>
+               <q>
+                  <bibl>PROV. X. 9</bibl> He that walketh uprightly, walketh ſurely.</q>
+            </head>
+            <p>IN this ſhort Sentence, <hi>Solomon</hi> commends to our Practice a Noble and an Excellent Rule for the Government of our Lives; that of Integrity, or Upright Walking; a Rule of abſo<g ref="char:EOLhyphen"/>lute neceſſity, and general uſe through all the parts of our Converſation; as that which will direct us in every Action we undertake, con<g ref="char:EOLhyphen"/>duct us through all the Relations we are engag'd in, and enable us to ſteer our Courſe aright, through that great variety of Events and Con<g ref="char:EOLhyphen"/>tingencies that fall out in the world. And the Obſervation hereof, that wiſe Prince enforces, from an Argument that ſeldom fails of gaining upon our Conſent, <hi>viz.</hi> the mighty Advantages that will attend this Method: he aſſures us, that by a ſteady Perſeverance in our Duty, in ſpight of all Temptations to the contrary, we ſhall render our lives eaſie and comfortable, ſecure all our moſt valuable Concerns, and paſs our whole time in a happy Calm and Tranquillity; whilſt the Politicians of the World, thoſe who
+<pb n="6" facs="tcp:106185:4"/>think to eſtabliſh their Repoſe and their Fortune by Maxims of a different Nature, by evil Arts and unlawful Practices, by the crooked ways of Subtilty and Intrigue, by mean Flatteries and unworthy Compliances, will find themſelves at laſt fatally diſappointed of their aims, and be forc'd to ſit down under all the Melancholick Reſentments of their own ill Conduct: for ſo it follows in the Cloſe of this Verſe; <hi>But he that perverteth his ways ſhall be known.</hi>
+            </p>
+            <p>In my Diſcourſe upon theſe Words, I ſhall en<g ref="char:EOLhyphen"/>deavour theſe Two Things.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> 
+                  <hi>Firſt,</hi> To give ſome account of the Duty in my Text; and that by Repreſenting to you the Character of the Juſt and Upright Man: <hi>He that walketh uprightly.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> 
+                  <hi>Secondly,</hi> To ſhew you the Advantage of this Principle.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> I begin with the Firſt of theſe, the Character of the upright man. In general, he is one that takes care to conform all his Actions to their proper Rule, and directs 'em to right Ends; He conſiders what Obligations he lyes under from the Laws of God and Man, from the Dictates of right Reaſon and a well-inform'd Conſcience; and to theſe Meaſures he reſigns the abſolute diſ<g ref="char:EOLhyphen"/>poſal of his whole Deportment in the World. This is the way he chooſes to walk in, and he proceeds in it with ſuch a reſolution and firmneſs
+<pb n="7" facs="tcp:106185:4"/>of Mind, as is not to be ſhaken on the one hand by the Charms and Allurements of the moſt glorious Fortune, nor on the other with the threatning Proſpect of the worſt Calamities: the conſideration of what he ſhall gain by departing from his Rule, or what he ſhall loſe by adhe<g ref="char:EOLhyphen"/>ring to it, makes no Impreſſion upon him, but he is unalterably fixt and obſtinate to his Principle, and takes it for the Companion of his whole Life, let the Conſequence of it be what it will: And this Rule is a guide to him in every Action, in all his Relations, and amidſt the manifold Changes and Accidents of his Life.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whatſoever he undertakes, the grand Queſti<g ref="char:EOLhyphen"/>on with him is not, Whether that Action will make him Great and Powerful in the World, whether it will miniſter to his Pleaſure, or gratifie his Ambition, or advance his Fortune? no, but Is it fit or neceſſary to be done? Is it warranted by Law? Will it abide the Teſt of Conſcience? Can it be own'd with Credit in the face of this World? and may it be ſafely ventur'd to the Account of that great and terrible day of univerſal Recompence? Pride and Ambition, Intereſt and Deſign, Luxury and Pleaſure, are none of his Council; theſe are never admitted to mingle in the Debate, nor form the Reſolution, nor determine the Practice; but what the Law com<g ref="char:EOLhyphen"/>mands, and Religion binds him to, what Honor
+<pb n="8" facs="tcp:106185:5"/>and Conſcience require of him, that he readily engages in, and never troubles his thoughts about the Event; ſince that is not in his Power as his Actions are: and therefore as he thinks himſelf oblig'd to look after the one, he knows he ought to leave the other where it belongs, to the Diſcretion of an All-wiſe Providence. And as he is thus concern'd for the Matter of his Actions, he is no leſs ſolicitous about the Intention; and takes care that his Heart be Upright in that Point alſo. He will not loſe the Glory, nor the Reward of Well-doing, by ſuffering any ill Deſigns or unworthy Ends to mix in the performance, and therefore whatever he does, proceeds upon good Grounds, and juſt Motives: His Prayers are never offer'd up without a hearty Zeal and a pure Devotion, his Alms are always the reſult of a real Tenderneſs and Compaſſion, and every Faſt he undertakes is a Religious Audit, a ſeaſon of ſtrict Reckoning and Account, in order to per<g ref="char:EOLhyphen"/>fect his Repentance, and even Matters betwixt God and his own Soul: much leſs can he ſatisfie himſelf with Forms and Appearances of Vertue without the Thing; he is not willing to ſeem a better Man than he is, and is ſo far remov'd from all degrees of Vanity and Affectation, that he is ſcarce content to be thought ſo good. Hypocriſie and Intrigue, the leading Principles of too great a part of Mankind, have no ſhare in
+<pb n="9" facs="tcp:106185:5"/>his Management, and therefore his Face is ever the true Index of his Mind; his Thoughts and Ex<g ref="char:EOLhyphen"/>preſſions are not at War with each other, and all his Vows and Promiſes, his Oaths and Proteſtati<g ref="char:EOLhyphen"/>ons are ſo many ſacred and inviolable Tyes upon his Honor and his Conſcience. In a word, his whole Converſation has an Openneſs and Free<g ref="char:EOLhyphen"/>dom in it, like that of the Air he breaths in, and is as clear as the Light at Noon-day, without the leaſt Artifice of Diſguiſe or Reſerve.</p>
+            <p>Whatſoever Relations he is engaged in, this ſame Principle bears him conſtant Company; if Providence have raiſed him above the common level of Men, and entruſted him with the Ad<g ref="char:EOLhyphen"/>miniſtration of Publick Juſtice, the Law is his Rule, and Juſtice is his End; and the great Exam<g ref="char:EOLhyphen"/>ple he copies from in all his Proceedings, is that Sovereign Juſtice above, from which he derives his Power, and to which the laſt Account muſt be given of its Execution: like that he renders to all under his Charge according to their Doings, without the leaſt Partiality or Reſpect of Perſons; he weighs the Merits of the Cauſe without throw<g ref="char:EOLhyphen"/>ing in the Circumſtances of the Party to unſettle the Balance, ſo that neither the Weight of Great<g ref="char:EOLhyphen"/>neſs preſſes down the Scale, nor the Lightneſs of Poverty kicks it up; but every Action receives ſuch
+<pb n="10" facs="tcp:106185:6"/>a Sentence as the Law has provided, and meets with a Reward or a Puniſhment ſuitable to its own Merit. If the Cure of Souls become his Pro<g ref="char:EOLhyphen"/>vince, the Importance of his Charge, and the Con<g ref="char:EOLhyphen"/>ſideration of a vaſt Eternity in Happineſs or Tor<g ref="char:EOLhyphen"/>ments unſpeakable, the infallible Recompence of Vertue and Vice, inſpire all his Miniſterial Ap<g ref="char:EOLhyphen"/>plications with an extraordinary Vigor, and ſet him to the Diſcharge of every Branch of the ſacred Office with all imaginable Diligence; and becauſe the World is not eaſily reconciled to Principles that contradict the natural Luſts and Paſſions of Men, and becauſe moſt Men are willing to ex<g ref="char:EOLhyphen"/>cuſe themſelves by every Pretence, from what they are loth to practiſe, he endeavours to convince his People both of the Truth of his Doctrine, and Practicableneſs of Religion, by his own Example, and teaches others the Value they ought to ſet up<g ref="char:EOLhyphen"/>on their precious and immortal Souls, by the par<g ref="char:EOLhyphen"/>ticular Care he has of his own. If Subjection be his Lot, he is very well ſatisfy'd with his Stati<g ref="char:EOLhyphen"/>on, as knowing how much eaſier it is to obey than to govern, to receive than to give Laws; he is very ſenſible of the great Burden that Authority lies under, how vaſt a Load of Care and Buſineſs devolves upon him who has the Charge of a Multitude, and ſtands oblig'd to provide for the Rights and Intereſts of every particular Member
+<pb n="11" facs="tcp:106185:6"/>of it, and therefore he thinks it a Shame to add more Weight; by a perverſe and refractory Car<g ref="char:EOLhyphen"/>riage, but reſolves to contribute all he can to the eaſe of his Superiors, by a cheerful Obedience to their Commands, and to the Maintenance and Support of them alſo by as cheerful a Libe<g ref="char:EOLhyphen"/>rality.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſt of all, as to the various Events and Acci<g ref="char:EOLhyphen"/>dents of his Life: no Change of outward Circum<g ref="char:EOLhyphen"/>ſtances creates the leaſt Alteration in him; the moſt elevated Condition can't make him forget the Obligations he has to common Juſtice and Humanity, and that Power that furniſhes him with a Thouſand Opportunities of doing good, is never miſemploy'd to Acts of Injuſtice and Op<g ref="char:EOLhyphen"/>preſſion. Pride and Haughtineſs and Contempt of others are Qualities he is a perfect Stranger to, and however Providence may have remov'd him to ſome conſiderable Diſtance from his Inferiors, he remembers withal, that Diſtance has not broke the Relation he bears to them as a Man and a Chriſtian, nor depriv'd them of that Right they have upon both Accounts to his Charity and Pro<g ref="char:EOLhyphen"/>tection: On the other hand, Misfortune can't ſo far debaſe his Spirit, but that he ſtill remains the Maſter of his Honour, and his Vertue; he is ne<g ref="char:EOLhyphen"/>ver
+<pb n="12" facs="tcp:106185:7"/>brought ſo low as to ſtoop to any baſe unlaw<g ref="char:EOLhyphen"/>ful Means for the Recovery of his Fortune, nor can he ever think it reaſonable to redeem his Inte<g ref="char:EOLhyphen"/>reſt at the Price of his Conſcience; much leſs does he harbour any murmuring Thoughts of that Su<g ref="char:EOLhyphen"/>preme Power to whom belongs the Diſpoſal of humane Affairs by unqueſtionable Right: and who can at pleaſure ſhift the Scene, and make the greateſt Prince change Circumſtances with the meaneſt Slave: in his loweſt Declenſion he di<g ref="char:EOLhyphen"/>ſcovers a Brightneſs equal to that of his greateſt Height, and lets all Men ſee, that his Vertue is not like Quickſilver in a Glaſs, ſubject to all the Alte<g ref="char:EOLhyphen"/>rations of the Weather, but is the fixt Perſuaſion of his Mind, and the ſettled Choice and Reſolu<g ref="char:EOLhyphen"/>tion of his Soul.</p>
+            <p>This is the Upright Man, view him all over and you'll find him exactly of a piece; Juſtice and Righteouſneſs are the ruling Qualities of his Con<g ref="char:EOLhyphen"/>verſation, Intereſt, and Deſign, and Subtilty have no place in him, and whatſoever Judgment the World makes of him, he is abundantly ſatisfi'd with a ſenſe of Well-doing, and finds it at laſt the beſt Policy too.</p>
+            <pb n="13" facs="tcp:106185:7"/>
+            <p>Which brings me to the</p>
+            <p>Second thing: The Advantage of this great Principle: And that will appear upon many Accounts.</p>
+            <list>
+               <item>I. With Reſpect to God.</item>
+               <item>II. To the World.</item>
+               <item>III. To a Mans own Conſcience.</item>
+               <item>IV. To the Judgment of the great Day.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> With Reſpect to God: An Upright Carriage will moſt certainly commend us to the Care of Divine Providence, and engage that on our ſides; and under this Protection we may well defy all the Hazards and Misfortunes of this World: to which purpoſes we have theſe Aſſurances of Holy Writ: <hi>The righteous Lord loveth righteouſneſs,</hi>
+               <note place="margin">
+                  <hi>Pſalm,</hi> 11, 37, 18.</note> 
+               <hi>his countenance doth behold the upright. The Lord knoweth the days of the upright, and their inheritance ſhall be for ever. The upright ſhall dwell in the land,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 2.21.22.</note> 
+               <hi>and the perfect ſhall remain in it; but the wicked ſhall be cut off from the earth, and the tranſgreſſors ſhall be rooted out of it.</hi> Now what are all theſe, but ſo many expreſs Declarations of Heaven to aſſure Good Men of Protection and Aſſiſtance in their ways; whilſt the Wicked are for ſaken of God,
+<pb n="14" facs="tcp:106185:8"/>and left to reap the fruit of their own Evil Counſels. And indeed it muſt needs be ſo, for ſure they that commit themſelves, and all their Affairs to an Almighty Power and Wiſdom, and reſt wholly upon that in the Diſcharge of their Duty; that are not to be frightned from it by any Terrors or Sufferings on the one hand, nor ſeduc'd out of it by the offers of any Worldly Intereſt and Advantage on the other; they that dare be Honeſt, and truſt God with the Event, theſe ſure have a better Title to his Promiſes, and a greater Intereſt in his Care than other Men, and whatſoever Ca<g ref="char:EOLhyphen"/>lamities ſhall happen in the World, they may reaſonably hope for his Support and Aſſiſtance: Truth, and Righteouſneſs, and Sincerity are Quali<g ref="char:EOLhyphen"/>ties that can't fail of endearing us to God as well as Man, theſe are ſome of the brighteſt Reſem<g ref="char:EOLhyphen"/>blances of his own Divinity, and can't chooſe but engage his Affection in what part ſoever of his Workmanſhip they are found; an humble Reſig<g ref="char:EOLhyphen"/>nation of our ſelves and all our Concerns to him, without the leaſt Dependance on our own Strength or Policy, this will enter us into his im<g ref="char:EOLhyphen"/>mediate and particular Care, and prove the neareſt and moſt infallible Way to our Happineſs and Security: for what ſhould make him afraid, that has Omnipotence for his Guard, or what can
+<pb n="15" facs="tcp:106185:8" rendition="simple:additions"/>he want that lives under the Proviſion of infinite Goodneſs? Such as theſe in the Royal Prophets Expreſſion, need not <hi>fear the terrors by night,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 91.5, 6,</note> 
+               <hi>nor the arrow that flyeth by day, nor the peſtilence that walketh in darkneſs, nor the deſtruction that wasteth at noon-day: a thouſand ſhall fall on one hand, and ten thouſand on the other, but it ſhall not come nigh them;</hi> nay tho the World ſhould fly aſunder, and fall into its final Confuſion, they need not ſtart at its Diſſolution; their own Integrity and Hea<g ref="char:EOLhyphen"/>vens Care is their Shield and Buckler, and let what will happen, it ſhall certainly turn to their Account. But can the Wicked and the Fraudulent, the Subtle and the Projecting Perſon promiſe the like Security? I doubt not ſuch as reſolve to eſtabliſh their Fortunes by any Means, that con<g ref="char:EOLhyphen"/>trive to make themſelves great and conſiderable at any Price; that lay the Scene of their own Ad<g ref="char:EOLhyphen"/>vancement by the Rules of Worldly Policy, and never trouble their Heads with Notions of Right or Wrong, of Heaven or Hell; theſe ſure can form no Title to the Divine Promiſe, nor challenge any Intereſt in the Divine Care; they have no<g ref="char:EOLhyphen"/>thing to truſt to but themſelves, and are commonly the moſt fatally miſtaken in their own Projects: ſuch men do in Effect renounce the Protection of the Almighty, and defy his Providence; and
+<pb n="16" facs="tcp:106185:9"/>conſequently it is but Juſt with God to lay aſide all care of 'em, to turn their Councils into Folly, and to bring all their Glorious Contrivances to nothing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> With Reſpect to the World. Many are the Advantages of Righteouſneſs, not to mention at preſent the juſt Honor and Reputation which at<g ref="char:EOLhyphen"/>tends this Vertue, even in the Opinion of thoſe who are not willing to practice it; nor the gene<g ref="char:EOLhyphen"/>ral Obligation it lays upon all we have the op<g ref="char:EOLhyphen"/>portunity to converſe with. I ſhall inſtance in one particular that relates to the Occaſion before us, which is this: This Principle is ſure to commend us to the Protection of the Laws, and will ſecure the Favour and Countenance of Authority: St. <hi>Paul</hi> tells us,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 13.3, 4.</note> that <hi>Rulers are not a terror to good works but to the evil;</hi> that's the great End and Deſign of their Inſtitution, and where they Act contrary, they go beyond their Commiſſion, and violate the Truſt repos'd in 'em; and then adds, <hi>Wilt thou not be afraid of the powers, do that which is good, and thou ſhalt have praiſe of the ſame; for he is the miniſter of God to thee for good: But if thou do that which is evil be afraid, for he beareth not the ſword in vain:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Tim.</hi> 1.9.</note> and elſewhere he aſſures us, <hi>that the law is not made for the righteous, but for the law<g ref="char:EOLhyphen"/>leſs
+<pb n="17" facs="tcp:106185:9"/>and diſobedient, for the ungodly<g ref="char:punc">▪</g> and for ſinners, for unholy and profane, for murderers of fathers, and murderers of mothers, for men-ſlayers,</hi> and the like: where Men are ſo hardy as to break through all the Bounds the Laws of God and Man have preſcribed; where they have the Impudence to attempt the Rights of Majeſty, and will venture to ſtamp their Sovereign's Image upon their own baſe Metal, where they are not ſatisfy'd with their Legal Properties, but will be invading thoſe of their Neighbours: when they are not content to refer their private Injuries to the Deci<g ref="char:EOLhyphen"/>ſion of the Civil Magiſtrate, but will be Judges in their own Cauſe, and hang and draw by their own Sentence: It can't be expected, but that the Juſtice of a Nation will be rous'd by ſuch bold and deſperate Impieties, and be oblig'd in Honor to itſelf, and for the Preſervation of publick Peace, to leave the Offenders to the utmoſt Severities of the Laws: Without ſome Exam<g ref="char:EOLhyphen"/>ples in theſe Caſes, Government would naturally diſſolve, and all its Bonds fly aſunder, and Man<g ref="char:EOLhyphen"/>kind muſt return to that Condition which ſome have fancied to be its Primitive State, a Company of Bears and Wolves worrying and devouring one another: But good Men run no Hazards under a Government ſenſible of its Honor, and exact in
+<pb n="18" facs="tcp:106185:10" rendition="simple:additions"/>its Adminiſtrations; their Lives, you Fortunes, their Liberties are all at repoſe, and whoſoever attempts any of theſe, does it at his Peril: ſuch Men are as ſecure in their ſeveral Intereſts as the Strength of a Nation can render them, and the ſame Force that maintains the whole Body in Peace and Order, deſcends to the Preſervation of every particular Member of it; and ſo long as they keep cloſe to their Rule, and perſiſt in exact Obedience to the Laws, they have no reaſon to ſuſpect either the Anger of their Superiors, or the Violence of their Fellow-Subjects. In general, to the Juſt and Upright, Laws are a conſtant Guard and Protection, and they turn the edge only upon Evil-Doers, whoſe Subtilty may perchance evade their Force a while, but it ſeldom ſecures them long, and when once diſcover'd, does certainly give them up a Sacrifice to revengeful Juſtice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> But, howſoever it may fare with the Right<g ref="char:EOLhyphen"/>eous, as to their outward Circumſtances in the World, whatſoever Misfortunes Heaven may ſuffer them to fall under for the Tryal and Im<g ref="char:EOLhyphen"/>provement of their Vertue, yet have they an in<g ref="char:EOLhyphen"/>ward Comfort greater than all their Afflictions, the happy Teſtimony of their own Conſciences, applauding and juſtifying their Integrity, theſe
+<pb n="19" facs="tcp:106185:10"/>will ſpeak Peace to them, bear up their drooping Spirits, and give them Courage and Aſſurance un<g ref="char:EOLhyphen"/>der their greateſt Preſſures: Let the Weather be as bad as it can be abroad, let the Storm rage never ſo horribly, Good Men have a ſafe Harbor in their own breaſts, all is quiet and calm within, their Minds are perfectly at eaſe, undiſturb'd by the Diſorders of Guilty Thoughts, or the guſts of Tempeſtuous Paſſions: A good Conſcience is a Bleſſing of more value than all the other En<g ref="char:EOLhyphen"/>joyments of Life 'tis this that gives Life and Be<g ref="char:EOLhyphen"/>ing to all other Satisfactions, and without this they loſe their very Eſſence, and convert into a Load and an Oppreſſion; like Health to the Body, it keeps a Man eaſy under the meaneſt Circum<g ref="char:EOLhyphen"/>ſtances, and without it he never can be ſo in the greateſt Affluence. And 'tis this Bleſſing of Life only that is not liable to any outward Accidents, no Change or Revolution of Affairs, no Capri<g ref="char:EOLhyphen"/>chio<hi>'s</hi> of Fortune, no Malice of Enemies can make the leaſt Impreſſion upon it; 'tis no more to be forc'd than our Wills and our Choice, as in<g ref="char:EOLhyphen"/>ſeparable from Vertue, as Light and Heat from the Body of the Sun; and ſo long as the Spring that feeds it be well maintain'd, ſo long as Men perſiſt in a ſteady Reſolution of living well, theſe Streams of Pleaſures can never be cut off, or
+<pb n="20" facs="tcp:106185:11"/>dried up. But the Wicked can't pretend to this Advantage; in the height of their Proſperity Guilt, and Fear, and Anxiety of Mind will make the beſt Ornaments of Life ſit uneaſily about them, and Happineſs is vainly ſought in things without, whilſt the Soul and Conſcience are diſ<g ref="char:EOLhyphen"/>order'd within; and in their loweſt ebb theſe Men of all others are the moſt Miſerable. When the Arrows of the Almighty are abroad in the Earth, and he viſits for the Iniquity of a People; when he lays his hand on Evil-Doers, and preſſes them ſore, what a Condition are they in who have no Retreat to fly to, nothing in all the World to take refuge under? When there is a raging Storm without, and a violent Tempeſt within; when the Almighty becomes their Ene<g ref="char:EOLhyphen"/>my, and their own Conſcience refuſes to be their Friend, but adds to their Miſeries by ſecret Re<g ref="char:EOLhyphen"/>bukes, and an inviſible Sting; when the Guilt of all their paſt Impieties diſplays itſelf before their Thoughts in blackeſt Colours, and ſummoneth up their Fears of approaching Vengeance, this is enough to ſet them at their Wits ends, and make them Wretched to the laſt Degree.<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ov.</hi> 18.14.</note> 
+               <hi>The ſpirit of a man will ſuſtain his Infirmity,</hi> ſays the Wiſe Man, <hi>but a wounded Spirit who can bear?</hi> When that which ſhould relieve a Man in Extremity proves
+<pb n="21" facs="tcp:106185:11" rendition="simple:additions"/>itſelf the greateſt Burden, that Burden muſt be intolerable.</p>
+            <p>Laſtly, To paſs on to the laſt and greateſt Ad<g ref="char:EOLhyphen"/>vantage, That which waits for Righteous and Good Men in the Recompence of the great Day. And here give me leave in a few Words to enter<g ref="char:EOLhyphen"/>tain your Thoughts with part of the Proceedings of that ſolemn Aſſize; The Time is long ſince fix'd in the unalterable Decrees of Heaven, and every Day ſets us nearer to it, and when it does come, we ſhall all have a very great and concer<g ref="char:EOLhyphen"/>ning ſhare in it. That Day will no ſooner appear, but it will open to our View the moſt aſtoniſhing Proſpect, the Glory and Majeſty of the great Judge, the vaſt and numerous Aſſembly that will ſtand before him, the Troops of Good and Evil Angels in their different Poſts attending the Execu<g ref="char:EOLhyphen"/>tion of his Sentence, the rais'd Hopes and Expe<g ref="char:EOLhyphen"/>ctations of Good Men, and the preſaging Horrors of the Wicked, will ſtrike us with ſtrange and unuſual Apprehenſions: then all things will ap<g ref="char:EOLhyphen"/>pear in a different Form to what they now under<g ref="char:EOLhyphen"/>go, then Vertue and Piety (once the Scorn of Fools, and Envy of Devils, deſpis'd, run down, and per<g ref="char:EOLhyphen"/>ſecuted by an ungrateful World, to the utmoſt ſtretch of its Wit and Malice,) will be brought
+<pb n="22" facs="tcp:106185:12"/>forth in Triumph, and crown'd with Rewards infinitely great, and ſuch as our preſent Concep<g ref="char:EOLhyphen"/>tions cannot form any tolerable Notion of. Then Innocence and Sincerity, howſoever they were overcaſt in this Life, will look Bright and Clear to all the World, and Godlineſs will be found Gain, and Honeſty the beſt Policy. Then Religion will be all one with Wiſdom, the very Character the Wiſe Man now gives it, and Duty and Intereſt will be but different Names for the ſame thing; and no Perſons will appear to have conſider'd their Advantage ſo much, as they that expos'd e<g ref="char:EOLhyphen"/>very thing that was dear to them on this ſide Hea<g ref="char:EOLhyphen"/>ven, their Honor, their Eſtates, and even Life it<g ref="char:EOLhyphen"/>ſelf, for the ſake of a Good Conſcience, and a Glorious Eternity. Then will all the Works of Darkneſs be brought to Light, and expos'd in their proper Colours to the view of Men and Angels; Hypocriſie will no longer walk in Diſguiſe, but be ſtript of its artificial Dreſs, and preſented to that vaſt Aſſembly in its native Uglineſs and Deformi<g ref="char:EOLhyphen"/>ty: then Atheiſm will be found ſtark Madneſs, and Profaneneſs the moſt deſperate Folly, and the Wiſe Men of the World, as they are now counted, will appear the moſt ſtupid Wretches, and they that could part with their Honour, and their Conſcience in exchange for a little parcel of
+<pb n="23" facs="tcp:106185:12"/>Earth, for an Aiery Title, for a few Moments of Senſual Satisfaction, will be found to have made the ſaddeſt Bargain, and to have pawn'd away their Souls for a Trifle; and all Sinners will ſtand amaz'd how they came to be thus over-reach'd by the Deluſions of Satan, and ſo far loſt to all Senſe and Reaſon, as to give up what was infinitely Valuable, their Innocence, their God, and Hea<g ref="char:EOLhyphen"/>ven and Eternity, for juſt nothing. Moſt cer<g ref="char:EOLhyphen"/>tainly, all things will in a little time, put on a<g ref="char:EOLhyphen"/>nother Face than what they now carry, and our Apprehenſions of them will be quickly alter'd from what they are at preſent. The Scene will undoubtedly change before it be long, and rectify abundance of Miſtakes we now lie under; the things which are now Articles of our Faith, will in time become the Objects of Senſe, and the Hopes and Fears of good and bad Men, will one day terminate in a joyful or a miſerable Experi<g ref="char:EOLhyphen"/>ence, and thoſe things which are now reckoned for Cheats of Government by our new Refiners of the Age, the Notions of Good and Evil, Heaven and Hell, will be found by them Sad and Important Truths, the Genuine Impreſſions of Nature, and the Reſults of ſober and wiſe Rea<g ref="char:EOLhyphen"/>ſoning. Then will all the dark Proceedings of Providence be unfolded, then the Sufferings and
+<pb n="24" facs="tcp:106185:13"/>Perſecutions that good Men lay under, for the Trial of their Conſtancy, and Increaſe of their Vertue will prove the happy Engines that have rais'd them up to an Eternal Weight of Glory: and the Ingratitude and Impenitence of Sinners under the various Methods of Divine Clemency, will ſink their Souls and Bodies into Torments in<g ref="char:EOLhyphen"/>tolerable, and yet ſuch as muſt be endured for ever.</p>
+            <p>Thus far I have purſued the Advantages of this Vertue in my Text, and ſhewn you how great Gainers we ſhall be by conforming our Pra<g ref="char:EOLhyphen"/>ctice to it: The Favour of God, the Approbation of our own Conſciences, the Protection of Hu<g ref="char:EOLhyphen"/>mane Laws; not to mention the good Opinion of all Wiſe Men, and the various Offices of Kindneſs and Humanity which this Principle binds all Men to return to us, are the preſent Rewards of it, beſides what we may juſtly promiſe our ſelves in Reverſion, the unconceiva<g ref="char:EOLhyphen"/>ble Delights of a glorious Eternity. In a word, the Intereſts of both Worlds are concern'd in it, and it is not poſſible for us to miſcarry either here or hereafter, ſo long as we hold cloſe to this Rule.</p>
+            <pb n="25" facs="tcp:106185:13"/>
+            <p>May theſe Conſiderations then ſink deep into our Hearts, and engage us to act accordingly. Whatſoever Station the Divine Providence ſhall caſt us into, let us take Care that our Conſcien<g ref="char:EOLhyphen"/>ces be rightly inform'd in their Duty, and when they are ſo, reſolve that no Inducement whatſoever ſhall make us go counter to their Or<g ref="char:EOLhyphen"/>ders, or violate their Commands. Let us endea<g ref="char:EOLhyphen"/>vour to ſtand ſo firm, that neither the greateſt Dangers may fright us from our Duty, nor the higheſt Flatteries of Fortune ſeduce us from it, nor any Temptation whatſoever triumph over our Honor and our Integrity; and if we thus ſteer our Courſe, we ſhall make Sure of a ſafe Paſſage, at leaſt through this World, howſoever our Veſſel may be beaten with the Storms and Tempeſts of it; and ſhall in the end arrive at a happy Shore, where Pious Souls are in full Poſſeſſion of all they can deſire, there to reap the Everlaſting Fruits of Righteouſneſs and Well-doing.</p>
+            <closer>Which God grant, <hi>&amp;c.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
